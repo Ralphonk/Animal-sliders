@@ -2,7 +2,10 @@
 
 A fun and interactive way to learn about different animals from around the world.
 
-##Screenshot
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/e052d965-8a63-40ac-a0d2-991ec2568657)
+
 
 ## Description
 
